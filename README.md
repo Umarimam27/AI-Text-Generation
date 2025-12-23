@@ -9,7 +9,7 @@ The app is deployed using Streamlit for real-time text generation.
 
 Tech: Python, TensorFlow, Keras, RNN, LSTM, Streamlit
 
-![Uploading image.png…]()
+<img width="957" height="438" alt="image" src="https://github.com/user-attachments/assets/6146d6e7-257d-4264-bdb9-c1bdf10190ab" />
 
 
 https://github.com/user-attachments/assets/2ef5cfc9-1891-4d87-8a2d-f7d1e8c87037
